@@ -1,13 +1,13 @@
 # Data Analyst
 
 ### Skills
-Proficient: Tableau Desktop Certification, SQL 
+Proficient: Tableau Desktop Certification, SQL <br>
 Moderate: Python, R
 
 ### Projects
 #### Analyze NYSE Data
--
--
+- <br>
+- <br>
 #### Digital Music Warehouse Dashboard
 -
 -
