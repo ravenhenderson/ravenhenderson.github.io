@@ -7,7 +7,7 @@ Moderate: Python, R
 ### Projects
 #### Analyze NYSE Data
 - <br>
-- <br>
+- <br> <p>
 #### Digital Music Warehouse Dashboard
 -
 -
